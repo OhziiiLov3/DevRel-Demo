@@ -2,7 +2,7 @@
 ### AI Nike Dunk Web Scraper 
 
 ### JigsawStack 
-[JigsawStakc](https://docs.jigsawstack.com/api-reference/ai/scrape)
+[JigsawStack](https://docs.jigsawstack.com/api-reference/ai/scrape)
 Scrape any website instantly and get consistent structured data in seconds without writing any css selector code
 
 # DevRel DEemo
